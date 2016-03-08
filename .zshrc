@@ -10,11 +10,13 @@ if [ -n "$INSIDE_EMACS" ]; then
 else
     export ZSH_THEME="agnoster"
 fi
-# ZSH_THEME="agnoster"
-# ZSH_THEME="agnoster"
 
 DEFAULT_USER='puda'
 alias 'e'=' emacs -nw '
+alias 'emax'=' emacsclient -c '
+alias 'emaxt'=' emacsclient -t '
+alias 'ekill'="emacsclient -e '(kill-emacs)'"
+
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
 
