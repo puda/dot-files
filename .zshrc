@@ -5,6 +5,7 @@
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
+export TERM=xterm-256color
 if [ -n "$INSIDE_EMACS" ]; then
     export ZSH_THEME="robbyrussell"
 else
@@ -12,10 +13,18 @@ else
 fi
 
 DEFAULT_USER='puda'
+# emacsclient
+export ALTERNATE_EDITOR=""
+export EDITOR="emacsclient -t"                  # $EDITOR should open in terminal
+export VISUAL="emacsclient -c -a emacs"         # $VISUAL opens in GUI with non-daemon as alternate
+#  aliases
 alias 'e'=' emacs -nw '
-alias 'emax'=' emacsclient -c '
-alias 'emaxt'=' emacsclient -t '
-alias 'ekill'="emacsclient -e '(kill-emacs)'"
+alias 'ec'=' emacsclient -c -a emacs'
+alias 'sec'=' sudo emacsclient -c -a emacs'
+alias 'et'=' emacsclient -t '
+alias 'set'=' sudo emacsclient -t '
+alias 'ek'="emacsclient -e '(kill-emacs)'"
+alias 'ed'="emacs --daemon"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
