@@ -7,7 +7,7 @@ export ZSH=/home/puda/.oh-my-zsh
 # time that oh-my-zsh is loaded.
 export TERM=xterm-256color
 if [ -n "$INSIDE_EMACS" ]; then
-    export ZSH_THEME="cloud"
+    export ZSH_THEME="gnzh"
 else
     export ZSH_THEME="agnoster"
 fi
@@ -18,9 +18,9 @@ export ALTERNATE_EDITOR=""
 export EDITOR="emacsclient -t"                  # $EDITOR should open in terminal
 export VISUAL="emacsclient -c -a emacs"         # $VISUAL opens in GUI with non-daemon as alternate
 #  aliases
-# alias 'e'=' emacs -nw '
+alias 'e'=' emacs -nw '
 alias 'ec'=' emacsclient -c -a emacs'
-alias 'e'=' emacsclient -t '
+alias 'et'=' emacsclient -t '
 alias 'ek'="emacsclient -e '(kill-emacs)'"
 alias 'ed'="emacs --daemon"
 
@@ -68,7 +68,7 @@ alias 'gc'="/opt/google-chrome-puda"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git, debian)
+plugins=(git)
 
 # User configuration
 

@@ -1,0 +1,132 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.4.0/appcompat-v7-23.4.0-sources.jar!/android/support/v7/app/AppCompatActivity.java" timestamp="1464790733395">
+        <mark key="'" line="217" column="10" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Puda/app/src/main/java/com/example/puda/puda/MainActivity.java" timestamp="1464806388819">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="9" column="41" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="217" column="10" filename="$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.4.0/appcompat-v7-23.4.0-sources.jar!/android/support/v7/app/AppCompatActivity.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/AndroidStudioProjects/Puda/app/src/main/java/com/example/puda/puda/MainActivity.java" />
+      <jump line="12" column="4" filename="$USER_HOME$/AndroidStudioProjects/Puda/app/src/main/java/com/example/puda/puda/MainActivity.java" />
+      <jump line="3" column="18" filename="$USER_HOME$/AndroidStudioProjects/Puda/app/src/main/java/com/example/puda/puda/MainActivity.java" />
+      <jump line="9" column="41" filename="$USER_HOME$/AndroidStudioProjects/Puda/app/src/main/java/com/example/puda/puda/MainActivity.java" />
+      <jump line="5" column="24" filename="$USER_HOME$/AndroidStudioProjects/Puda/app/src/main/java/com/example/puda/puda/MainActivity.java" />
+      <jump line="10" column="23" filename="$USER_HOME$/AndroidStudioProjects/Puda/app/src/main/java/com/example/puda/puda/MainActivity.java" />
+      <jump line="7" column="8" filename="$USER_HOME$/AndroidStudioProjects/Puda/app/src/main/java/com/example/puda/puda/MainActivity.java" />
+      <jump line="8" column="28" filename="$USER_HOME$/AndroidStudioProjects/Puda/app/src/main/java/com/example/puda/puda/MainActivity.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/AndroidStudioProjects/Puda/app/src/main/java/com/example/puda/puda/MainActivity.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>Bundle savedInstanceState</text>
+      </register>
+      <register name="-" type="4">
+        <text>Bundle savedInstanceState</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxzYXZlZEluc3RhbmNlU3RhdGVcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>Bundle savedInstanceState</text>
+      </register>
+      <register name="2" type="4">
+        <text>savedInstanceState</text>
+      </register>
+      <register name="3" type="4">
+        <text>R.layout.activity_main</text>
+      </register>
+      <register name="4" type="4">
+        <text>R.layout.activity_main</text>
+      </register>
+      <register name="5" type="4">
+        <text>savedInstanceState</text>
+      </register>
+      <register name="6" type="4">
+        <text>void onCreate(Bundle savedInstanceState) {</text>
+      </register>
+      <register name="7" type="4">
+        <text>public class MainActivity extends AppCompatActivity {</text>
+      </register>
+      <register name="8" type="4">
+        <text>activity</text>
+      </register>
+      <register name="9" type="4">
+        <text>InstanceState</text>
+      </register>
+      <register name=":" type="4">
+        <text>actionlist</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxzYXZlZEluc3RhbmNlU3RhdGVcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxzYXZlZEluc3RhbmNlU3RhdGVcPg==</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxzYXZlZEluc3RhbmNlU3RhdGVcPg==</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>ta</entry>
+        <entry encoding="base64">XDxCdW5kbGVcPg==</entry>
+        <entry encoding="base64">XDxzYXZlZEluc3RhbmNlU3RhdGVcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>tab new</entry>
+        <entry>actionlist</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

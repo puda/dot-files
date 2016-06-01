@@ -1,0 +1,34 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="Puda" values="AndroidRunConfigurationType" collectionTime="1464806394927" />
+    </group>
+    <group name="module type">
+      <project id="Puda" values="JAVA_MODULE" collectionTime="1464806394926" />
+    </group>
+    <group name="file-type">
+      <project id="Puda" values="UNKNOWN,Properties,ARCHIVE,AIDL,JAVA,ProGuard File,Groovy,IDEA_MODULE,PLAIN_TEXT,Images,XML" collectionTime="1464806394998" />
+    </group>
+    <group name="Git">
+      <project id="Puda" values="config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled" collectionTime="1464806395013" />
+    </group>
+    <group name="frameworks">
+      <project id="Puda" values="java-gradle,android-gradle,android" collectionTime="1464806394926" />
+    </group>
+    <group name="language-level">
+      <project id="Puda" values="JDK_1_7,JDK_1_8" collectionTime="1464806395012" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ide.settings.Appearance" count="2" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="11" />
+      <entry feature="ide.settings.Font" count="5" />
+      <entry feature="ide.settings.Keymap" count="6" />
+      <entry feature="ide.settings.Plugins" count="7" />
+      <entry feature="ideaapp.started" count="17" />
+      <entry feature="terminal.linux" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+    </counts>
+  </component>
+</application>

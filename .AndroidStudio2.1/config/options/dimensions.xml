@@ -1,0 +1,17 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.2736.1824@192dpi" x="1234" y="460" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2736.1824@192dpi" x="939" y="633" />
+    <location key="#Browse_Repositories.0.0.2736.1824@192dpi" x="947" y="532" />
+    <location key="SettingsEditor.0.0.2736.1824@192dpi" x="407" y="210" />
+    <location key="StructurePopup.0.0.2736.1824@192dpi" x="908" y="632" />
+    <location key="#Plugins.0.0.2736.1824@192dpi" x="843" y="518" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.2736.1824@192dpi" x="950" y="518" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.2736.1824@192dpi" x="1001" y="330" />
+    <size key="#Browse_Repositories.0.0.2736.1824@192dpi" width="828" height="764" />
+    <size key="SettingsEditor.0.0.2736.1824@192dpi" width="2037" height="1370" />
+    <size key="StructurePopup.0.0.2736.1824@192dpi" width="878" height="411" />
+    <size key="#Browse_JetBrains_Plugins_.0.0.2736.1824@192dpi" width="828" height="764" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.2736.1824@192dpi" width="728" height="1140" />
+  </component>
+</application>
