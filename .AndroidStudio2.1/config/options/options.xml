@@ -10,12 +10,13 @@
     <property name="android-component-compatibility-check" value="1464787721525" />
     <property name="com.google.gct.enable.cloud.testing" value="true" />
     <property name="MobileminApi" value="15" />
-    <property name="lastTip" value="17" />
-    <property name="PLUGIN_FILTER" value="vim&#10;glance&#10;code&#10;theme&#10;color ide" />
-    <property name="KEYMAP" value="" />
+    <property name="lastTip" value="24" />
+    <property name="PLUGIN_FILTER" value="color&#10;mater&#10;theme&#10;vim&#10;glance" />
+    <property name="KEYMAP" value="add selection&#10;next" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="default" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="selected.color.option.type" value="DEBUGGER_INLINED_VALUES_MODIFIED" />
   </component>
 </application>
