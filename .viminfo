@@ -8,45 +8,455 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/bul
+~Msle0~/\<onlinetest_giveSpecialRegisterPermission\>
 
 # Last Substitute Search Pattern:
-~MSle0&require
+~MSle0&dotspacemacs
 
 # Last Substitute String:
 $puda
 
 # Command Line History (newest to oldest):
-:wq
-:e ~/.emacs.d/init.el
 :q
-:e ~/.emacs.d/init.eli
-:q!
+:e ~/.vim_runtime/
+:wq
+:Q
+:e .emacs.d/init.el
 :w
-:%s/require/puda
+:e .ideavimrc
+:e ~/.spacemacs.d/init.el
 :bd
-:%s/require/puda/g
+:e .spacemacs.d/init.el
+:nohl
+:e .space
+:e .spin
+:e .em
+:e .emacs.d/layers/+distribution/spacemacs-base/config.el
+:e .emacs.d/
+:e .elfeed/
+:%s/dotspacemacs/puda
+:e ~/thebb/init.el
+:q!
+:e ~/_puda.emacs.d/puda/puda-packages.el
+:e ~/.emacs.d/init.el
+:e /var/www/community/index.php
+:tab new
+:e /var/www/community/sites/all/modules/custom/onlinetest/onlinetest.module
+:%s/dotspacemacs/dsm/g
+:e /v/w/c/s/a/m/c/o/on
+:tab prev
+:tp
+:e
 :Q!
+:e ~/.emac
+:qall
+:'<,'>q!
+:s
+:e /var/www/community/sites/all/modules/custom/onlinetest/onlinetest.install
+:e ~/.vim_runtime/vimrcs/extended.vim
+:e .emacs
+:e .emin
+:e ~/Documents/puda-todo.org
+:tab delete
+:tab kill
+:e .emacs.d/puda/puda-packages.el
+:e .emacs.d/puda/puda-packages-to-install.el
+:e .emacs.d/in
+:%s/onlinetest/puda/g
+:tab close
+:help
+:e .vim_runtime/
+:e .vim_runtime/vimrcs/extended.vim
+:e 
+:e .vim_runtime/vimrcs/basic.vim
+:q
+:wq!
+:e /avr/www
+:e .emacs.d/puda/puda-ui.el
+:e .emacs.d/puda/puda-functions.el
+:e /var//www/community/sites/default/settings.php
+:e .emacs.d/puda/
+:e ~/.spacemacs.d/layers/puda-basic/packages.el
+:e .spacemacs.d/
+:e .emacs.d/persp-confs/u
+:Q:q
+:e .emacs.d/puda/ui
+:e .emacs.d/puda/puda-evil-use.el
+:syntax:off
+:syntax=off
+:syntaxoff
+:e /avr/ww
+:e .emacs.d/ini
+:e .emacs.d/puda/puda-evil.el
+:e .emacs
+:!
+:%s/puda-basic\/init/defun puda-basic\/init/g
+:'<,'>%s/puda
+:e .spacemacs.d/layers/puda-basic/packages.el
+:e .spacemacs
+:%s/require/puda
+:%s/require/puda/g
+:e .emacs.din
+:e .
+:e .emacs.
+:e _puda.emacs.d/init.el
+:e .emacs.d/puda/puda-autocomplete.el
+:split
+:vs
+:ZZ
+:max
+:wm
+:wd
+:vsplit
+:e .emacs.d/puda/puda-autocomplete.ele
+:e .emacs.d/private/puda-php/packages.el
+:e  .emacs.d/private/
+:e  .emacs.d/private/la
+:e .emacs.d/private/
+:e ~
+:e .vim_mru_files
+:e ~/.emacs.d/
+:e ~/.emacs.d/puda/puda-ui.el
+:e ~/.emacs.d/init.eli
 :q!`
 :e ~/.zsh_history
 :e ~/.bash_history
 :e .hfo
-:'<,'>q!
-:wq!
 :e ~/.vi
 :e ~/.vim_runtime/vimrcs/basic.vim
-:e .vim_runtime/vimrcs/basic.vim
-:e .vim_runtime/vimrcs/extended.vim
 
 # Search String History (newest to oldest):
+? \<onlinetest_giveSpecialRegisterPermission\>
+?/specialregister
+?/46
+?/       <option name="FOREGROUND" value="b5db99" />
+?/     <value>
+?/   <option name="HTML_ATTRIBUTE_VALUE">
+?/   </option>
+?/     </value>
+?/       <option name="FOREGROUND" value="FF9787" />
+?/   <option name="HTML_ATTRIBUTE_NAME">
+?/     <value />
+?/   <option name="HAML_XHTML">
+?/       <option name="EFFECT_TYPE" value="2" />
+?/   <option name="HAML_TEXT">
+?/       <option name="FOREGROUND" value="ffffff" />
+?/   <option name="HAML_TAG">
+?/   <option name="HAML_RUBY_START">
+?/       <option name="BACKGROUND" value="403635" />
+?/   <option name="HAML_RUBY_CODE">
+?/       <option name="FOREGROUND" value="e8bf6a" />
+?/   <option name="HAML_ID">
+?/   <option name="HAML_FILTER_CONTENT">
+?/   <option name="HAML_FILTER">
+?/       <option name="FONT_TYPE" value="2" />
+?/       <option name="FOREGROUND" value="bc9458" />
+?/   <option name="HAML_COMMENT">
+?/   <option name="HAML_CLASS">
+?/       <option name="EFFECT_TYPE" value="1" />
+?/       <option name="FOREGROUND" value="7cb36f" />
+?/   <option name="Groovydoc tag">
+?/       <option name="FOREGROUND" value="629755" />
+?/   <option name="Groovydoc comment">
+?/   <option name="Groovy method declaration">
+?/       <option name="FOREGROUND" value="6a8759" />
+?/   <option name="GString">
+?/   <option name="GROOVY_KEYWORD">
+?/       <option name="EFFECT_TYPE" value="-1" />
+?/   <option name="GRADLE_NO_CHANGE">
+?/       <option name="FOREGROUND" value="db4233" />
+?/   <option name="GRADLE_CHANGE_CONFLICT">
+?/       <option name="FONT_TYPE" value="1" />
+?/       <option name="FOREGROUND" value="297bde" />
+?/   <option name="GHERKIN_REGEXP_PARAMETER">
+?/       <option name="ERROR_STRIPE_COLOR" value="f49810" />
+?/       <option name="EFFECT_COLOR" value="f49810" />
+?/   <option name="GENERIC_SERVER_ERROR_OR_WARNING">
+?/       <option name="EFFECT_COLOR" value="287bde" />
+?/       <option name="FOREGROUND" value="287bde" />
+?/   <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
+?/       <option name="FOREGROUND" value="8c8c8c" />
+?/   <option name="FOLDED_TEXT_ATTRIBUTES">
+?/   <option name="EXECUTIONPOINT_ATTRIBUTES">
+?/       <option name="ERROR_STRIPE_COLOR" value="bc3f3c" />
+?/       <option name="EFFECT_COLOR" value="bc3f3c" />
+?/   <option name="ERRORS_ATTRIBUTES">
+?/       <option name="FOREGROUND" value="9373a5" />
+?/   <option name="ENUM_CONST">
+?/   <option name="DUPLICATE_FROM_SERVER">
+?/       <option name="FOREGROUND" value="e3d7d6" />
+?/   <option name="DOC_COMMENT_TAG_VALUE">
+?/       <option name="ERROR_STRIPE_COLOR" value="43698d" />
+?/   <option name="DIFF_MODIFIED">
+?/       <option name="ERROR_STRIPE_COLOR" value="447152" />
+?/   <option name="DIFF_INSERTED">
+?/       <option name="ERROR_STRIPE_COLOR" value="656e76" />
+?/   <option name="DIFF_DELETED">
+?/       <option name="ERROR_STRIPE_COLOR" value="8f5247" />
+?/   <option name="DIFF_CONFLICT">
+?/       <option name="EFFECT_TYPE" value="3" />
+?/       <option name="EFFECT_COLOR" value="c3c3c3" />
+?/   <option name="DEPRECATED_ATTRIBUTES">
+?/       <option name="FOREGROUND" value="f8f8f0" />
+?/   <option name="DELETED_TEXT_ATTRIBUTES">
+?/   <option name="DEFAULT_VALID_STRING_ESCAPE">
+?/       <option name="EFFECT_TYPE" value="5" />
+?/   <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+?/   <option name="DEFAULT_STRING">
+?/   <option name="DEFAULT_STATIC_METHOD">
+?/   <option name="DEFAULT_STATIC_FIELD">
+?/   <option name="DEFAULT_SEMICOLON">
+?/   <option name="DEFAULT_PARENTHS">
+?/   <option name="DEFAULT_OPERATION_SIGN">
+?/   <option name="DEFAULT_NUMBER">
+?/       <option name="FOREGROUND" value="bbb529" />
+?/   <option name="DEFAULT_METADATA">
+?/       <option name="FOREGROUND" value="c3b8b7" />
+?/   <option name="DEFAULT_LINE_COMMENT">
+?/   <option name="DEFAULT_KEYWORD">
+?/       <option name="EFFECT_COLOR" value="c81414" />
+?/       <option name="FOREGROUND" value="dee3ec" />
+?/   <option name="DEFAULT_INVALID_STRING_ESCAPE">
+?/   <option name="DEFAULT_INSTANCE_METHOD">
+?/   <option name="DEFAULT_INSTANCE_FIELD">
+?/   <option name="DEFAULT_IDENTIFIER">
+?/   <option name="DEFAULT_FUNCTION_DECLARATION">
+?/   <option name="DEFAULT_FUNCTION_CALL">
+?/   <option name="DEFAULT_DOT">
+?/   <option name="DEFAULT_DOC_MARKUP">
+?/   <option name="DEFAULT_DOC_COMMENT_TAG">
+?/   <option name="DEFAULT_DOC_COMMENT">
+?/   <option name="DEFAULT_CONSTANT">
+?/   <option name="DEFAULT_COMMA">
+?/   <option name="DEFAULT_CLASS_REFERENCE">
+?/   <option name="DEFAULT_CLASS_NAME">
+?/   <option name="DEFAULT_BRACKETS">
+?/   <option name="DEFAULT_BRACES">
+?/   <option name="DEFAULT_BLOCK_COMMENT">
+?/   <option name="Class">
+?/       <option name="FOREGROUND" value="4646f1" />
+?/   <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
+?/   <option name="CUSTOM_STRING_ATTRIBUTES">
+?/   <option name="CUSTOM_NUMBER_ATTRIBUTES">
+?/       <option name="FOREGROUND" value="808080" />
+?/   <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
+?/   <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
+?/       <option name="FOREGROUND" value="c93b48" />
+?/   <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
+?/       <option name="FOREGROUND" value="f9795" />
+?/   <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
+?/       <option name="FOREGROUND" value="ab51ba" />
+?/   <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
+?/   <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
+?/       <option name="FOREGROUND" value="8000" />
+?/   <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
+?/       <option name="EFFECT_COLOR" value="589df6" />
+?/>
+?/defconst
+?/;k
+??dotspacemacs^M
+??puda^M
+??puda-theming^M
+?/wjjjjjjj
+?/helm
+?/;;
+?/fullscreen
+?/add-to-hook
+?/spacemacs\/toggle
+??defconst^M
+?/def
+? dotspacemacs
+?/el
+?/elc
+?/font
+?/;j
+?/transp
+?/bb
+?/setq
+?/reboto
+?/message
+?/set
+?/chrome
+?/changeEx
+?/spacemacs
+?/changeE
+?/dotspacemacs
+?/this
+?/sp
+??ver
+?/spacemacs^M
+? \<spacemacs\/init\>
+?/unicode
+?/chang
+?/dotspacemacs^M
+?/se
+?/defcont
+?/require
+? \<onlinetest_isQuizOnlineTest\>
+?/monoka
+?/ng
+?/remove
+?/ivy
+?/git-gu
+?/spacemasc
+? \<defconst\>
+?/defconts
+?/fino
+?/them
+?/5w
+?/fox
+? \<query\>
+?/spacemacs-emacs-min-version^M
+? \<spacemacs-emacs-min-version\>
+?/;
+?/agnoster
+?/noo
+?/ter
+?/cy
+?/cl
+?/mh
+?/mi
+?/yi
+??ro
+?/ongoin
+?/ongoing
+??pdf
+?/k
+?/change
+?/spaceline
+?/shell-pop
+? \<require\>
+?/req
+? \<onlinetest_views_api\>
+?/	
+? onlinetest
+?/h
+?/Pro\ 
+?/12
+?/fd
+?/e
+?/airline
+??custom
+?/if
+?/git
+?/et
+?/b
+??requi
+? )
+?/re
+??functio
+?/baseline
+?/bfd
+?/puda^M
+? \<milkbox\>
+?/requi
+?/rere
+?/fddfdfdfdf
+?/nyan
+?/nya/
+?/nya
+? \<alias\>
+?/aliea
+??git
+?/plugins
+?/debian
+? \<puda-ui\>
+?/requ
+?/text-o
+?/evil-indent-text
+?/evil-te
+?/text-
+? ()
+?/function
+?/alias
+??puda-the
+?/commit(
+?/forgroup_commiut
+?/:q!
+?/module
+?/smart
+?/php
+?/ac-php
+?/0301
+?/isAssessor
+?/wq
+?/; ;
+??php
+?/Fira
+?/solari
+?/airilne
+?/puda
+?/sola
+?/vim
+??tango
+?/package
+?/defhy
+?/defhyd
+?/hydra
+?/fullfram
+?/full
+?/fullsc
+?/use
+?/evil-mode
+?/agno
+?/agnot
+?/ango
+?/ang
+?/emmet
+?/auto-
+??function
+?/select
+? \<onlinetest_changeExamVersion\>
+??changeEx
+?/.php
+?/EU
+?/our cu
+?/jk
+?/toggle
+?/25
+?/spacemacs-dark
+?/reuire
+?/:nohl
+? puda-basic\/init
+?/puda-basic
+?/defun
+?/dotspace
+?/bk
+? require
+?/:
+?/finish but
+?/our cusro
+?/ranger
+?/rcirc
+?/space
+?/hl
+?/33
+?/13
+?/st
+?/:vsplit
+?/load-theme
+?/powerline
+?/daemon
+?/gtag
+?/evil
+?/v
+?/w
+?/r
+?/-
+??ac-php
+??ac
+?/esc
+?/emacsc
+?/emacsclient
+?/sem
+?/<leader
+?/<leader>e
 ?/bul
 ?/relat
 ?/relate
 ?/relative
 ?/str
 ?/ag
-? require
-?/k
 ?/DRI
 ?/--
 ?/GPU
@@ -79,161 +489,1210 @@ $puda
 
 # Registers:
 "0	CHAR	0
-	strug
+	surround
 "1	LINE	0
-	(add-to-list 'load-path "~/.emacs.d/puda")
-	(require 'puda-functions)
-	(require 'powerline-puda)
-	(require 'puda-ui)
-	(require 'puda-diminish)
-	
+	set surround
+	imap fd <Esc>
 "2	LINE	0
-	(add-to-list 'load-path "~/.emacs.d/puda")
-	(require 'puda-functions)
-	(require 'powerline-puda)
-	(require 'puda-ui)
-	(require 'puda-diminish)
 	
 "3	LINE	0
-	exec LIBGL_DRI3_DISABLE=1 
+	set surround
 "4	LINE	0
-	LIBGL_DRI3_DISABLE=1 
+	etuet
 "5	LINE	0
-	LIBGL_DRI3_DISABLE=1 
+	
 "6	LINE	0
-	LIBGL_DRI3_DISABLE=1
-"7	LINE	0
-	LIBGL_DRI3_DISABLE=1 
+	   '()
+"7	CHAR	0
+	evil-leader/set-key
+	    "." 'dumb-jump-go
+	    ">" 'dumb-jump-back
+	    "bk" 'kill-this-buffer
+	    "bd" 'kill-buffer
+	    "j;" 'avy-isearch
+	    
 "8	LINE	0
-	LIBGL_DRI3_DISABLE=1 
+	       (push '("!==" . ?≠?≠) prettify-symbols-alist)
 "9	LINE	0
-	: 1455460722:0;rm -rf ~/.Skype/dom619
-	: 1455460757:0;vim
+	
+"u	CHAR	0
+	ire 'spaceline-config)(spaceline-spacemacs-theme)ufduuuuujjko(require 'spaceline-config)(spaceline-spacemacs-theme)kkdd w
 ""-	CHAR	0
-	bullet-train
+	HTTP_REFERER
 
 # File marks:
-'0  8  18  ~/.zshrc
-'1  619  48  ~/bullet-train.zsh-theme
-'2  24  0  ~/.emacs.d/init.el
-'3  1  0  ~/.emacs.d/init.eli
-'4  1  0  ~/.Xresources
-'5  7  12  ~/.Xresources
-'6  19  41  ~/.xinitrc
-'7  9  0  ~/.zshrc
-'8  33  0  ~/.emacs.d/init.el
-'9  1933  22  /etc/php5/apache2/php.ini
+'0  5847  45  /var/www/community/sites/all/modules/custom/onlinetest/onlinetest.module
+'1  44  15  ~/.spacemacs.d/layers/puda-basic/config.el
+'2  1  0  ~/.AndroidStudio2.1/config/colors/mud.icls
+'3  1  0  ~/.AndroidStudio2.1/config/colors/m
+'4  1  0  ~/.AndroidStudio2.1/config/colors/na
+'5  119  523  ~/.AndroidStudio2.1/config/colors/mud.icls
+'6  1  0  ~/.emacs.d/init.el
+'7  2  5  ~/.ideavimrc
+'8  1  4  ~/.ideavimrc
+'9  1  7  ~/.ideavimrc
 
 # Jumplist (newest first):
--'  8  18  ~/.zshrc
--'  2  0  ~/.zshrc
--'  1  0  ~/.zshrc
--'  6  2  ~/.zshrc
--'  619  48  ~/bullet-train.zsh-theme
--'  1  0  ~/bullet-train.zsh-theme
--'  24  0  ~/.emacs.d/init.el
--'  1  0  ~/.emacs.d/init.el
--'  1  0  ~/.emacs.d/init.eli
--'  1  0  ~/.Xresources
--'  7  12  ~/.Xresources
--'  19  41  ~/.xinitrc
--'  1  0  ~/.xinitrc
--'  9  0  ~/.zshrc
--'  7  2  ~/.zshrc
--'  33  0  ~/.emacs.d/init.el
--'  21  0  ~/.emacs.d/init.el
--'  11  15  ~/.emacs.d/init.el
--'  266  0  ~/.emacs.d/init.el
--'  1  0  ~/.vim_runtime/my_configs.vim
--'  1933  22  /etc/php5/apache2/php.ini
--'  1  0  /etc/php5/apache2/php.ini
--'  5  0  ~/.emacs.d/init.el
--'  287  0  ~/.emacs.d/init.el
--'  3  0  ~/.emacs.d/init.el
--'  5652  0  /var/www/community/sites/all/modules/custom/onlinetest/onlinetest.module
+-'  5847  45  /var/www/community/sites/all/modules/custom/onlinetest/onlinetest.module
+-'  781  43  /var/www/community/sites/all/modules/custom/onlinetest/onlinetest.module
 -'  1  0  /var/www/community/sites/all/modules/custom/onlinetest/onlinetest.module
--'  1  0  /boot/efi/EFI/refind/refind_x64.efi
--'  11  17  ~/.zshrc
--'  1  0  /opt/google/chrome/chrome-sandbox
--'  34  0  /opt/google/chrome/chrome-sandbox
--'  2  0  /usr/bin/google-chrome
--'  77  0  /usr/bin/google-chrome
--'  78  1  /usr/bin/google-chrome
--'  4  0  /usr/bin/google-chrome
--'  1  0  /usr/bin/google-chrome
--'  15  0  /usr/bin/google-chrome-stable
--'  1  0  /usr/bin/google-chrome-stable
--'  2  0  /usr/bin/google-chrome-stable
--'  82  0  /usr/bin/google-chrome-stable
--'  6  0  /usr/bin/google-chrome-stable
--'  80  0  /usr/bin/google-chrome-stable
--'  85  0  /usr/bin/google-chrome-stable
--'  71  0  /usr/bin/google-chrome-stable
--'  7  25  /usr/bin/google-chrome
--'  81  4  /usr/bin/google-chrome
--'  66  30  /usr/bin/google-chrome
--'  65  20  /usr/bin/google-chrome
--'  20  21  /usr/bin/google-chrome
--'  9  0  /usr/bin/google-chrome
--'  13  63  /usr/bin/google-chrome
--'  10  10  /usr/bin/google-chrome
--'  73  0  /usr/bin/google-chrome-stable
--'  84  0  /usr/bin/google-chrome-stable
--'  78  0  /usr/bin/google-chrome-stable
--'  1428  0  ~/.zsh_history
--'  1  0  ~/.zsh_history
--'  1429  0  ~/.zsh_history
--'  294  0  ~/.bash_history
--'  1  0  ~/.bash_history
--'  293  76  ~/.bash_history
--'  1  0  ~/.hfo
--'  1931  0  /etc/php5/apache2/php.ini
--'  1934  0  /etc/php5/apache2/php.ini
--'  1  0  /var/www/index.php
--'  46  22  ~/.emacs.d/init.el
--'  12  21  /etc/apache2/sites-enabled/000-default.conf
--'  1  0  /etc/apache2/sites-enabled/000-default.conf
--'  222  19  /etc/apache2/apache2.conf
--'  171  20  /etc/apache2/apache2.conf
--'  220  0  /etc/apache2/apache2.conf
--'  1  0  /etc/apache2/apache2.conf
--'  1  0  ~/buffer
--'  11  40  /etc/default/grub
--'  8  20  /etc/default/grub
--'  1  0  /etc/default/grub
--'  147  60  /boot/grub/grub.cfg
--'  145  27  /boot/grub/grub.cfg
--'  143  27  /boot/grub/grub.cfg
--'  70  26  /boot/grub/grub.cfg
--'  68  26  /boot/grub/grub.cfg
--'  1  0  /boot/grub/grub.cfg
--'  238  38  /boot/grub/grub.cfg
--'  236  38  /boot/grub/grub.cfg
--'  213  38  /boot/grub/grub.cfg
--'  210  39  /boot/grub/grub.cfg
--'  208  39  /boot/grub/grub.cfg
--'  197  38  /boot/grub/grub.cfg
--'  194  39  /boot/grub/grub.cfg
--'  192  39  /boot/grub/grub.cfg
--'  180  38  /boot/grub/grub.cfg
--'  177  39  /boot/grub/grub.cfg
--'  175  39  /boot/grub/grub.cfg
--'  164  38  /boot/grub/grub.cfg
--'  161  39  /boot/grub/grub.cfg
--'  159  39  /boot/grub/grub.cfg
--'  27  44  /etc/default/grub
--'  240  38  /boot/grub/grub.cfg
+-'  44  15  ~/.spacemacs.d/layers/puda-basic/config.el
+-'  1  0  ~/.spacemacs.d/layers/puda-basic/config.el
+-'  1  0  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  1  0  ~/.AndroidStudio2.1/config/colors/m
+-'  1  0  ~/.AndroidStudio2.1/config/colors/na
+-'  119  523  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  91  427  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  69  297  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  66  285  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  65  279  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  90  417  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  86  399  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  85  389  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  82  377  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  81  371  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  80  361  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  76  343  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  75  333  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  73  325  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  72  321  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  71  315  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  63  261  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  58  235  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  57  225  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  53  207  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  125  473  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  122  461  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  120  455  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  95  445  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  70  307  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  64  271  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  59  243  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  214  723  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  202  697  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  201  687  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  193  669  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  189  661  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  188  651  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  172  617  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  171  607  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  158  581  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  157  571  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  149  553  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  148  543  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  135  511  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  134  501  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  126  483  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  1  0  ~/.AndroidStudio2.1/config/colors/na
+-'  1  0  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  1  0  ~/.AndroidStudio2.1/config/colors/m
+-'  1  0  ~/.AndroidStudio2.1/config/colors/na
+-'  119  523  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  91  427  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  69  297  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  66  285  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  65  279  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  90  417  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  86  399  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  85  389  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  82  377  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  81  371  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  80  361  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  76  343  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  75  333  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  73  325  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  72  321  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  71  315  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  63  261  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  58  235  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  57  225  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  53  207  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  125  473  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  122  461  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  120  455  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  95  445  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  70  307  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  64  271  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  59  243  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  214  723  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  202  697  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  201  687  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  193  669  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  189  661  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  188  651  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  172  617  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  171  607  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  158  581  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  157  571  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  149  553  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  148  543  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  135  511  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  134  501  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  126  483  ~/.AndroidStudio2.1/config/colors/mud.icls
+-'  1  0  ~/.AndroidStudio2.1/config/colors/na
+-'  44  15  ~/.spacemacs.d/layers/puda-basic/config.el
 
 # History of marks within files (newest to oldest):
 
+> /var/www/community/sites/all/modules/custom/onlinetest/onlinetest.module
+	"	5847	45
+	^	5847	45
+	.	5847	0
+	+	2	0
+	+	2	0
+	+	21	0
+	+	22	0
+	+	22	0
+	+	10	0
+	+	12	0
+	+	12	0
+	+	176	6
+	+	199	0
+	+	176	0
+	+	5701	0
+	+	5701	0
+	+	5701	0
+	+	5702	0
+	+	5703	0
+	+	5703	0
+	+	5703	0
+	+	5702	0
+	+	5703	0
+	+	5704	0
+	+	11	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	3	0
+	+	13	0
+	+	14	0
+	+	13	0
+	+	16	0
+	+	21	0
+	+	21	0
+	+	21	0
+	+	21	0
+	+	21	0
+	+	21	0
+	+	21	0
+	+	21	0
+	+	773	0
+	+	773	0
+	+	129	68
+	+	129	0
+	+	150	0
+	+	163	0
+	+	10	0
+	+	18	0
+	+	1144	0
+	+	1145	0
+	+	1146	0
+	+	1133	0
+	+	132	0
+	+	132	0
+	+	132	0
+	+	132	0
+	+	132	0
+	+	132	0
+	+	132	0
+	+	132	0
+	+	132	0
+	+	132	0
+	+	132	0
+	+	132	0
+	+	132	0
+	+	132	68
+	+	132	16
+	+	132	0
+	+	132	0
+	+	132	0
+	+	130	0
+	+	128	0
+	+	128	32
+	+	127	0
+	+	128	0
+	+	128	9
+	+	127	0
+	+	128	0
+	+	128	24
+	+	128	0
+	+	128	63
+	+	128	0
+	+	128	43
+	+	128	0
+	+	52	5
+	+	52	0
+	+	2	0
+	+	2	0
+	+	4	0
+	+	4	0
+	+	127	0
+	+	127	0
+	+	127	0
+	+	131	0
+	+	130	0
+	+	5847	0
+
+> ~/.spacemacs.d/layers/puda-basic/config.el
+	"	44	15
+	.	44	0
+	+	44	0
+
+> ~/.AndroidStudio2.1/config/colors/mud.icls
+	"	1	0
+	^	592	1886
+	.	118	531
+	+	592	1885
+	+	118	531
+
+> ~/.AndroidStudio2.1/config/colors/m
+	"	1	0
+
+> ~/.AndroidStudio2.1/config/colors/na
+	"	1	0
+
+> ~/.emacs.d/init.el
+	"	1	0
+	.	25	0
+	+	37	0
+	+	37	0
+	+	37	7
+	+	37	0
+	+	29	0
+	+	29	0
+	+	24	0
+	+	27	0
+	+	24	0
+	+	25	0
+	+	20	0
+	+	19	40
+	+	25	0
+	+	26	3
+	+	27	3
+	+	26	0
+	+	5	0
+	+	18	0
+	+	29	0
+	+	24	0
+	+	19	0
+	+	14	1
+	+	15	1
+	+	16	1
+	+	17	1
+	+	18	1
+	+	19	0
+	+	14	0
+	+	16	1
+	+	17	1
+	+	18	1
+	+	19	0
+	+	16	0
+	+	18	1
+	+	19	1
+	+	18	0
+	+	17	1
+	+	13	0
+	+	23	0
+	+	22	0
+	+	27	3
+	+	28	3
+	+	29	3
+	+	30	3
+	+	31	3
+	+	32	3
+	+	33	3
+	+	27	0
+	+	11	0
+	+	17	0
+	+	26	0
+	+	34	0
+	+	21	0
+	+	25	0
+	+	25	0
+	+	25	0
+	+	25	0
+	+	25	0
+	+	25	0
+	+	25	0
+	+	25	0
+	+	25	0
+	+	25	0
+	+	8	0
+	+	9	0
+	+	9	0
+	+	9	0
+	+	9	0
+	+	29	0
+	+	28	0
+	+	33	0
+	+	32	0
+	+	31	0
+	+	30	0
+	+	29	0
+	+	28	0
+	+	18	1
+	+	19	0
+	+	18	0
+	+	22	0
+	+	21	0
+	+	19	1
+	+	19	0
+	+	24	0
+	+	27	3
+	+	28	3
+	+	29	3
+	+	30	3
+	+	31	3
+	+	27	0
+	+	25	3
+	+	26	3
+	+	27	3
+	+	28	3
+	+	29	3
+	+	30	3
+	+	31	3
+	+	32	3
+	+	33	0
+	+	25	0
+	a	21	47
+	b	19	47
+
+> ~/.ideavimrc
+	"	2	5
+	^	1	14
+	.	1	4
+	+	1	12
+	+	1	15
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	2	0
+	+	1	0
+	+	3	0
+	+	2	0
+	+	3	0
+	+	3	0
+	+	2	0
+	+	1	4
+
+> ~/AndroidStudioProjects/Puda/.ideavimrc
+	"	1	0
+
+> ~/__MRU_Files__
+	"	1	0
+	.	81	0
+	+	427	0
+	+	376	0
+	+	305	0
+	+	232	0
+	+	159	0
+	+	81	0
+
+> ~/.spacemacs.d/init.el
+	"	1	0
+	^	20	9
+	.	20	8
+	+	213	0
+	+	198	2
+	+	102	38
+	+	108	60
+	+	112	50
+	+	13	0
+	+	16	0
+	+	19	0
+	+	42	0
+	+	44	0
+	+	10	0
+	+	44	5
+	+	168	3
+	+	168	3
+	+	44	93
+	+	1	0
+	+	39	0
+	+	45	94
+	+	38	0
+	+	1	0
+	+	36	16
+	+	59	33
+	+	5	0
+	+	10	0
+	+	10	0
+	+	53	0
+	+	99	0
+	+	95	42
+	+	1	0
+	+	32	5
+	+	32	0
+	+	54	0
+	+	117	12
+	+	233	0
+	+	128	0
+	+	125	3
+	+	125	0
+	+	129	0
+	+	130	0
+	+	126	0
+	+	125	0
+	+	127	0
+	+	117	12
+	+	233	0
+	+	233	0
+	+	233	0
+	+	242	0
+	+	241	0
+	+	1	0
+	+	184	0
+	+	182	0
+	+	184	0
+	+	182	26
+	+	183	16
+	+	182	0
+	+	181	31
+	+	183	25
+	+	185	0
+	+	90	0
+	+	3	0
+	+	58	0
+	+	58	0
+	+	58	0
+	+	58	0
+	+	58	0
+	+	58	0
+	+	58	0
+	+	143	0
+	+	143	0
+	+	168	0
+	+	165	0
+	+	159	0
+	+	159	0
+	+	47	0
+	+	9	0
+	+	47	0
+	+	46	0
+	+	51	0
+	+	51	0
+	+	52	0
+	+	53	0
+	+	51	0
+	+	53	0
+	+	52	0
+	+	51	0
+	+	51	0
+	+	53	0
+	+	52	0
+	+	51	0
+	+	54	0
+	+	59	0
+	+	52	0
+	+	107	0
+	+	108	0
+	+	58	0
+	+	109	0
+	+	128	0
+	+	129	2
+	+	110	0
+	+	20	8
+
+> ~/.emacs.d/.spin
+	"	1	0
+
+> ~/.emacs.d/layers/+distribution/spacemacs-base/config.el
+	"	138	20
+	.	138	0
+	+	138	0
+
+> ~/.vimperatorrc
+	"	1	13
+	^	1	14
+	.	1	13
+	+	2	0
+	+	1	0
+	+	1	13
+
+> ~/vim
+	"	1	0
+
+> ~/thebb/init.el
+	"	327	0
+
+> ~/.spacemacs.d/puda-snippets/php-mode/select_query
+	"	8	0
+	.	9	0
+	+	9	0
+
+> ~/.zsh_history
+	"	10837	0
+	.	10837	0
+	+	1429	0
+	+	1428	0
+	+	1429	0
+	+	7292	0
+	+	1307	0
+	+	6982	0
+	+	8823	0
+	+	10837	0
+
+> ~/_puda.emacs.d/puda/puda-packages.el
+	"	216	45
+
+> ~/Desktop/nvc_case_number
+	"	1	0
+	.	2	0
+	+	1	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+
+> /var/www/community/index.php
+	"	1	0
+
 > ~/.zshrc
-	"	8	18
-	^	8	19
-	.	8	18
-	+	11	17
-	+	8	15
-	+	7	20
-	+	8	18
+	"	10	23
+	^	10	26
+	.	10	23
+	+	15	0
+	+	24	0
+	+	24	0
+	+	24	0
+	+	24	0
+	+	24	0
+	+	24	98
+	+	24	0
+	+	21	28
+	+	24	7
+	+	19	9
+	+	24	13
+	+	20	8
+	+	23	8
+	+	21	8
+	+	20	8
+	+	24	9
+	+	24	9
+	+	18	98
+	+	15	12
+	+	23	18
+	+	22	17
+	+	21	35
+	+	22	41
+	+	13	0
+	+	12	0
+	+	13	22
+	+	12	0
+	+	13	0
+	+	12	0
+	+	12	0
+	+	12	0
+	+	12	0
+	+	12	0
+	+	12	0
+	+	12	0
+	+	12	0
+	+	8	0
+	+	12	0
+	+	12	0
+	+	13	0
+	+	12	0
+	+	13	4
+	+	12	0
+	+	13	0
+	+	8	0
+	+	12	0
+	+	12	0
+	+	13	0
+	+	12	0
+	+	13	0
+	+	8	0
+	+	12	0
+	+	12	0
+	+	13	0
+	+	12	0
+	+	13	0
+	+	12	26
+	+	22	0
+	+	71	20
+	+	26	9
+	+	26	0
+	+	26	0
+	+	26	0
+	+	26	0
+	+	26	0
+	+	26	0
+	+	26	0
+	+	25	0
+	+	24	0
+	+	26	0
+	+	71	20
+	+	28	0
+	+	27	35
+	+	23	8
+	+	21	0
+	+	24	0
+	+	23	0
+	+	71	12
+	+	12	29
+	+	12	29
+	+	13	0
+	+	13	0
+	+	12	0
+	+	13	22
+	+	13	24
+	+	9	0
+	+	11	0
+	+	15	0
+	+	13	0
+	+	15	20
+	+	11	0
+	+	15	18
+	+	15	20
+	+	15	0
+	+	14	0
+	+	13	0
+	+	10	0
+	+	11	0
+	+	10	23
+
+> ~/init.el
+	"	1	0
+
+> ~/Documents/Ingots login details
+	"	40	18
+
+> ~/.vim_runtime/vimrcs/extended.vim
+	"	11	30
+	^	11	31
+	.	11	30
+	+	51	0
+	+	72	0
+	+	74	0
+	+	67	0
+	+	32	16
+	+	11	55
+	+	11	48
+	+	10	0
+	+	11	0
+	+	11	0
+	+	12	0
+	+	11	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	11	46
+	+	27	0
+	+	27	0
+	+	11	30
+
+> ~/buffer
+	"	1	0
+
+> /var/www/onlinetest.views.inc
+	"	114	12
+
+> /var/www/community/sites/all/modules/custom/includes/views/onlinetest.views.inc
+	"	105	35
+
+> /var/www/community/sites/default/settings.php
+	"	223	0
+	^	222	35
+	.	222	34
+	+	205	24
+	+	206	24
+	+	208	25
+	+	209	37
+	+	218	24
+	+	219	24
+	+	221	25
+	+	222	34
+	+	198	0
+	+	209	37
+	+	222	34
+
+> ~/package.json
+	"	1	0
+	^	1	0
+
+> ~/Documents/puda-todo.html
+	"	21	1
+	.	12	0
+	+	12	0
+	+	12	0
+
+> ~/.emacs.d/recentf
+	"	1	0
+
+> ~/.emacs.d/re
+	"	1	0
+
+> ~/Downloads/translation.org
+	"	1	0
+
+> ~/Downloads/.emin
+	"	1	0
+
+> ~/ControlP
+	"	20	0
+	.	2	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	40	0
+	+	21	0
+	+	2	0
+
+> ~/Documents/puda-todo.org
+	"	58	0
+
+> ~/.emacs.d/puda/puda-packages-to-install.el
+	"	1	0
+	^	1	519
+	.	1	512
+	+	1	512
+
+> ~/.emacs.d/puda/puda-packages.el
+	"	340	32
+	^	340	33
+	.	340	33
+	+	11	43
+	+	11	0
+	+	7	30
+	+	11	0
+	+	18	71
+	+	16	20
+	+	18	22
+	+	18	50
+	+	16	44
+	+	18	51
+	+	18	22
+	+	18	70
+	+	18	50
+	+	18	48
+	+	18	22
+	+	18	0
+	+	18	49
+	+	18	65
+	+	18	22
+	+	18	22
+	+	18	54
+	+	18	66
+	+	18	22
+	+	126	32
+	+	2	0
+	+	6	26
+	+	17	46
+	+	18	50
+	+	6	27
+	+	40	52
+	+	40	0
+	+	40	0
+	+	40	53
+	+	41	0
+	+	19	0
+	+	18	49
+	+	19	67
+	+	18	52
+	+	30	0
+	+	20	0
+	+	19	68
+	+	340	33
+
+> ~/.emacs.d/in
+	"	1	0
+
+> ~/NERD_tree_1
+	"	11	4
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> /usr/share/vim/vim74/doc/help.txt
+	"	20	8
+
+> ~/.vim_runtime/vimrcs/basic.vim
+	"	196	6
+	.	64	7
+	+	58	17
+	+	59	19
+	+	63	13
+	+	152	0
+	+	152	0
+	+	152	0
+	+	152	0
+	+	152	0
+	+	152	0
+	+	152	0
+	+	152	0
+	+	152	0
+	+	64	7
+
+> ~/.spacemacs.d/layers/puda-basic/packages.el
+	"	97	0
+	.	113	0
+	+	24	0
+	+	38	0
+	+	107	0
+	+	8	0
+	+	8	0
+	+	113	0
+
+> ~/.spacemacs.d/layers/puda-theming/packages.el
+	"	1	0
+
+> ~/[BufExplorer]
+	"	1	0
+
+> ~/.xinitrc
+	"	24	0
+	.	25	0
+	+	24	36
+	+	6	0
+	+	5	9
+	+	5	0
+	+	3	4
+	+	3	0
+	+	1	15
+	+	9	0
+	+	9	0
+	+	2	6
+	+	4	12
+	+	7	55
+	+	10	0
+	+	10	0
+	+	25	0
+
+> /opt/google-chrome-puda
+	"	2	0
+
+> ~/.oh-my-zsh/plugins/nyan/nyan.plugin.zsh
+	"	2	2
+
+> ~/.oh-my-zsh/plugins/lol/lol.plugin.zsh
+	"	49	0
+
+> /var/log/apache2/error.log
+	"	260	1
+
+> ~/thebb/.spacemacs.d/init.el
+	"	1	0
+
+> ~/thebb/.spacemacs.d/no-dots/packages.el
+	"	7	60
+	^	7	18
+	.	7	0
+	+	1	0
+	+	7	0
+
+> ~/thebb/.spacemacs.d/no-dots/funcs.el
+	"	19	0
+
+> ~/thebb/.spacemacs.d/no-dots/config.el
+	"	1	0
+
+> ~/zsh.zshr
+	"	1	0
+
+> ~/thebb/spacemacs-layers/encoding/keybindings.el
+	"	3	0
+
+> ~/thebb/spacemacs-layers/encoding/funcs.el
+	"	1	0
+
+> ~/thebb/spacemacs-layers/bb/bb-keys/packages.el
+	"	32	0
+	.	58	0
+	+	58	0
+
+> ~/thebb/spacemacs-layers/bb/bb-keys/packages
+	"	1	0
+
+> ~/todoemacs.org
+	"	8	4
+	.	9	0
+	+	4	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	9	0
+
+> /00recommends
+	"	1	0
+
+> /usr/bin/terminix
+	"	1	0
+
+> ~/.globalrc
+	"	549	20
+	^	340	31
+	.	340	31
+	+	340	31
+
+> ~/.emacs.d/puda/puda-ui.el
+	"	28	6
+	^	58	3
+	.	28	6
+	+	3	0
+	+	72	0
+	+	72	0
+	+	71	0
+	+	80	0
+	+	82	0
+	+	80	0
+	+	80	0
+	+	80	0
+	+	80	0
+	+	71	0
+	+	79	42
+	+	80	44
+	+	85	68
+	+	88	48
+	+	74	0
+	+	72	21
+	+	74	0
+	+	75	26
+	+	74	0
+	+	52	42
+	+	18	2
+	+	57	2
+	+	58	0
+	+	28	6
+
+> ~/.spacemacs.d/layers/puda-general/packages.el
+	"	1	0
+
+> ~/.spacemacs.d/.zshrc
+	"	1	0
+
+> ~/.zshr
+	"	1	0
+
+> ~/.emacs.d/puda/puda-functions.el
+	"	76	1
+	.	91	0
+	+	91	0
+
+> ~/.emacs.d/puda/ui
+	"	1	0
+
+> ~/.emacs.d/puda/puda-evil-use.el
+	"	70	0
+	^	149	17
+	.	70	0
+	+	148	22
+	+	149	16
+	+	146	0
+	+	68	0
+	+	69	0
+	+	70	0
+
+> ~/.spacemacs.d/.zsh_hi
+	"	1	0
+
+> ~/Downloads/drupal_update_20160402/drupal_old/modules/user/user.module
+	"	803	11
+
+> ~/.emacs.d/puda/puda-evil.el
+	"	112	0
+	.	112	0
+	+	105	35
+	+	105	38
+	+	105	0
+	+	105	36
+	+	105	0
+	+	103	0
+	+	19	0
+	+	112	0
+
+> ~/.spacemacs
+	"	20	4
+	.	14	0
+	+	29	0
+	+	31	35
+	+	32	4
+	+	3	0
+	+	1	0
+	+	2	0
+	+	2	0
+	+	5	0
+	+	8	0
+	+	7	7
+	+	7	0
+	+	9	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	13	0
+	+	10	0
+	+	11	0
+	+	11	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	12	0
+	+	16	43
+	+	12	0
+	+	13	0
+	+	14	0
+
+> ~/quiz.module
+	"	2148	30
+
+> /etc/php5/apache2/php.ini
+	"	1933	27
+	^	1933	28
+	.	1933	27
+	+	1937	8
+	+	1938	53
+	+	1940	0
+	+	1939	22
+	+	1938	0
+	+	1933	0
+	+	1936	106
+	+	1937	0
+	+	1935	0
+	+	1936	22
+	+	1933	106
+	+	1933	0
+	+	1931	0
+	+	1933	0
+	+	1934	0
+	+	1933	27
+
+> ~/buffer.md
+	"	1	0
+
+> ~/.Xauthority
+	"	1	0
+
+> ~/.Xresources
+	"	4	1
+	^	1	1
+	.	1	0
+	+	8	0
+	+	7	8
+	+	1	0
+
+> ~/.Xmodmap
+	"	2	0
+
+> ~/.initrc
+	"	3	39
+	^	3	0
+	.	2	26
+	+	9	36
+	+	1	50
+	+	1	51
+	+	1	64
+	+	1	88
+	+	1	89
+	+	1	106
+	+	4	0
+	+	2	26
+
+> ~/_puda.emacs.d/init.el
+	"	5	0
+
+> ~/Downloads/.zshrc
+	"	1	0
+
+> ~/.emacs.d/puda/puda-autocomplete.el
+	"	5	1
+	.	5	0
+	+	33	1
+	+	5	1
+	+	5	1
+	+	5	0
+
+> ~/.emacs.d/puda/themes/color-theme-tomorrow.el
+	"	604	0
+
+> /etc/init.d/emacs
+	"	141	232
+	^	150	257
+	.	150	256
+	+	150	256
+
+> ~/.emacs.d/private/puda-php/packages.el
+	"	56	2
+	^	55	28
+	.	56	0
+	+	56	26
+	+	38	14
+	+	55	31
+	+	38	9
+	+	55	0
+	+	56	0
+
+> ~/.emacs.d/puda/powerline-puda.el
+	"	118	65
+	^	118	66
+	.	118	65
+	+	118	65
+
+> ~/.emacs.d/puda/puda-multiedit.el
+	"	8	0
+	.	8	0
+	+	8	0
+
+> ~/dot-files/.zshrc
+	"	12	0
+	.	12	0
+	+	13	0
+	+	13	0
+	+	12	0
+
+> ~/dot-files/.zsh
+	"	1	0
+
+> ~/.vim_runtime/my_configs.vim
+	"	1	0
 
 > ~/bullet-train.zsh-theme
 	"	619	48
@@ -241,62 +1700,8 @@ $puda
 	.	619	46
 	+	619	46
 
-> ~/.emacs.d/init.el
-	"	24	0
-	^	24	22
-	.	24	0
-	+	47	0
-	+	46	22
-	+	5	0
-	+	5	0
-	+	11	0
-	+	21	0
-	+	15	0
-	+	24	0
-
 > ~/.emacs.d/init.eli
 	"	1	0
-
-> ~/.Xresources
-	"	1	0
-	^	7	13
-	.	7	8
-	+	8	0
-	+	7	8
-
-> ~/.xinitrc
-	"	19	41
-	^	19	42
-	.	19	36
-	+	19	36
-
-> ~/.vim_runtime/my_configs.vim
-	"	1	0
-
-> /etc/php5/apache2/php.ini
-	"	1933	22
-	^	1933	23
-	.	1933	22
-	+	1937	8
-	+	1938	53
-	+	1940	0
-	+	1939	22
-	+	1938	0
-	+	1934	0
-	+	1936	106
-	+	1937	0
-	+	1935	0
-	+	1936	22
-	+	1933	106
-	+	1934	0
-	+	1931	0
-	+	1933	22
-
-> ~/buffer
-	"	1	0
-
-> /var/www/community/sites/all/modules/custom/onlinetest/onlinetest.module
-	"	5652	0
 
 > /boot/efi/EFI/refind/refind_x64.efi
 	"	1	0
@@ -319,132 +1724,8 @@ $puda
 	+	2	0
 	+	2	0
 
-> ~/.zsh_history
-	"	1428	0
-	.	1430	0
-	+	1430	0
-	+	1429	0
-	+	1430	0
-
 > ~/.bash_history
 	"	294	0
 
 > ~/.hfo
 	"	1	0
-
-> /var/www/index.php
-	"	1	0
-	^	1	0
-
-> /etc/apache2/sites-enabled/000-default.conf
-	"	12	21
-	.	12	21
-	+	12	21
-
-> /etc/apache2/apache2.conf
-	"	222	19
-	^	222	20
-	.	222	19
-	+	166	17
-	+	160	0
-	+	155	15
-	+	156	19
-	+	223	19
-	+	166	17
-	+	155	15
-	+	156	19
-	+	222	19
-
-> /etc/default/grub
-	"	11	40
-	^	11	41
-	.	11	40
-	+	28	0
-	+	11	40
-
-> /boot/grub/grub.cfg
-	"	147	60
-	^	147	61
-	.	147	60
-	+	147	68
-	+	164	69
-	+	197	69
-	+	147	60
-
-> /etc/lsb-release
-	"	4	40
-	^	4	41
-	.	4	40
-	+	1	16
-	+	2	20
-	+	3	20
-	+	4	40
-
-> /var/www/community/sites/default/settings.php
-	"	155	0
-	^	222	35
-	.	198	0
-	+	205	24
-	+	206	24
-	+	208	25
-	+	209	37
-	+	218	24
-	+	219	24
-	+	221	25
-	+	222	34
-	+	198	0
-
-> /var/www/community/sites/all/modules/.ac-php-conf.json
-	"	7	9
-	^	7	10
-	.	7	9
-	+	7	9
-
-> /var/www/phpinfo.php
-	"	1	15
-	^	1	16
-	.	1	15
-	+	1	15
-
-> ~/.conkyrc
-	"	65	10
-	^	65	11
-	.	65	10
-	+	63	63
-	+	64	69
-	+	70	0
-	+	70	0
-	+	69	0
-	+	69	0
-	+	66	10
-	+	67	10
-	+	68	10
-	+	65	23
-	+	66	24
-	+	66	9
-	+	67	9
-	+	68	9
-	+	70	7
-	+	71	7
-	+	72	7
-	+	73	0
-	+	70	23
-	+	65	9
-	+	66	0
-	+	65	10
-
-> ~/.vim_runtime/vimrcs/basic.vim
-	"	63	13
-	^	63	14
-	.	63	13
-	+	58	17
-	+	59	19
-	+	63	13
-
-> ~/.vim_runtime/vimrcs/extended.vim
-	"	81	8
-	.	82	0
-	+	66	0
-	+	87	0
-	+	89	0
-	+	82	0
